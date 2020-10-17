@@ -1,14 +1,14 @@
 {
     "foo": {
         "name": "foo",
-        "rolde": "superuser"
+        "role": "superuser"
     },
     "bar": {
         "name": "bar",
-        "rolde": "admin"
+        "role": "admin"
     },
     "jon": {
         "name": "jon",
-        "rolde": "network-controller"
+        "role": "network-controller"
     }
 }
